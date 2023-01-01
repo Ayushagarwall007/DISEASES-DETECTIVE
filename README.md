@@ -1,5 +1,5 @@
 # Machine Learning Project on Disease Predictions using Symptoms
-# Problem Statement 
+# Problem Statement
 Health information needs are also changing the information seeking behavior and can be 
 observed around the globe. Challenges faced by many people are looking online for health 
 information regarding diseases, diagnoses and different treatments. If a recommendation system 
